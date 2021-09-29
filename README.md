@@ -1,5 +1,3 @@
 # Leetcode
 
-## String
 
-## Array
