@@ -1,7 +1,7 @@
 # Leetcode
 
 ## String
-1. [Q383]()
+1. [Q383 Ransom Note](https://github.com/RuoxinWang/Leetcode/tree/main/Q383_RansomNote)
 
 ## Array
 1. [Q1748 Sum Of Unique Elements](https://github.com/RuoxinWang/Leetcode/tree/main/Q1748_SumOfUniqueElements)
