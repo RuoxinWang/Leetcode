@@ -10,3 +10,7 @@
 2. [Q977 Squares Of A Sorted Array](https://github.com/RuoxinWang/Leetcode/tree/main/Q977_SquaresOfASortedArray),
     [Leetcode link](https://leetcode.com/problems/squares-of-a-sorted-array/)
 
+
+## Matrix
+1. [Q867 Transpose Matrix](https://github.com/RuoxinWang/Leetcode/tree/main/Q867_TransposeMatrix),
+    [Leetcode link](https://leetcode.com/problems/transpose-matrix/)
