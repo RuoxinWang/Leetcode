@@ -9,7 +9,8 @@
     [Leetcode link](https://leetcode.com/problems/sum-of-unique-elements/)
 2. [Q977 Squares Of A Sorted Array](https://github.com/RuoxinWang/Leetcode/tree/main/Q977_SquaresOfASortedArray),
     [Leetcode link](https://leetcode.com/problems/squares-of-a-sorted-array/)
-
+3. [Q283 Move Zeroes](https://github.com/RuoxinWang/Leetcode/tree/main/Q283_MoveZeroes),
+    [Leetcode link](https://leetcode.com/problems/move-zeroes/)
 
 ## Matrix
 1. [Q867 Transpose Matrix](https://github.com/RuoxinWang/Leetcode/tree/main/Q867_TransposeMatrix),
