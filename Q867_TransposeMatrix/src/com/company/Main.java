@@ -17,9 +17,11 @@ public class Main {
         int A = matrix.length;
         int B = matrix[0].length;
         int[][] result = new int[B][A];
-        for(int i = 0; i < B; i++)
-            for(int j = 0; j < A; j++)
+        for(int i = 0; i < B; i++) {
+            for (int j = 0; j < A; j++) {
                 result[i][j] = matrix[j][i];
+            }
+        }
 
         System.out.println(Arrays.deepToString(result));
 
