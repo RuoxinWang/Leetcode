@@ -15,3 +15,5 @@
 ## Matrix
 1. [Q867 Transpose Matrix](https://github.com/RuoxinWang/Leetcode/tree/main/Q867_TransposeMatrix),
     [Leetcode link](https://leetcode.com/problems/transpose-matrix/)
+2. [Q48 Rotate Image](https://github.com/RuoxinWang/Leetcode/tree/main/Q48_RotateImage),
+    [Leetcode link](https://leetcode.com/problems/rotate-image/)
