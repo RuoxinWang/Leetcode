@@ -4,30 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f350549-0c88-48ef-ba0b-df953be8db5f" name="Changes" comment="Q867 Transpose Matrix">
-      <change beforePath="$PROJECT_DIR$/../Q48_RotateImage/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Q48_RotateImage/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Q48_RotateImage/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Q48_RotateImage/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Q48_RotateImage/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Q48_RotateImage/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Q48_RotateImage/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Q48_RotateImage/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Q48_RotateImage/Q48_RotateImage.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Q48_RotateImage/out/production/Q48_RotateImage/com/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Q48_RotateImage/src/com/company/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q867_TransposeMatrix.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Q867_TransposeMatrix/com/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="9f350549-0c88-48ef-ba0b-df953be8db5f" name="Changes" comment="Q867 Transpose Matrix" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -153,7 +130,21 @@
       <option name="project" value="LOCAL" />
       <updated>1633403809684</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Q867 Transpose Matrix">
+      <created>1633403911979</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1633403911979</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Q867 Transpose Matrix">
+      <created>1633403979042</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1633403979043</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
