@@ -14,6 +14,7 @@ public class Main {
     }
 
     private static int[][] transpose(int[][] matrix) {
+
         int A = matrix.length;
         int B = matrix[0].length;
         int[][] result = new int[B][A];
