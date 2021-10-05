@@ -17,3 +17,6 @@
     [Leetcode link](https://leetcode.com/problems/transpose-matrix/)
 2. [Q48 Rotate Image](https://github.com/RuoxinWang/Leetcode/tree/main/Q48_RotateImage),
     [Leetcode link](https://leetcode.com/problems/rotate-image/)
+3. [Q54 Spiral Matrix](https://github.com/RuoxinWang/Leetcode/tree/main/Q54_SpiralMatrix),
+    [Leetcode link](https://leetcode.com/problems/spiral-matrix/)
+4. 
