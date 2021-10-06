@@ -3,6 +3,10 @@
 ## String
 1. [Q383 Ransom Note](https://github.com/RuoxinWang/Leetcode/tree/main/Q383_RansomNote),
     [Leetcode link](https://leetcode.com/problems/ransom-note/submissions/)
+2. [Q205 Isomorphic String](https://github.com/RuoxinWang/Leetcode/tree/main/Q205_IsomorphicString),
+    [Leetcode link](https://leetcode.com/problems/isomorphic-strings/)
+3. [Q415 Add Strings](https://github.com/RuoxinWang/Leetcode/tree/main/Q415_AddStrings),
+    [Leetcode link](https://leetcode.com/problems/add-strings/)
 
 ## Array
 1. [Q1748 Sum Of Unique Elements](https://github.com/RuoxinWang/Leetcode/tree/main/Q1748_SumOfUniqueElements),
