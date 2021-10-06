@@ -7,7 +7,8 @@
     [Leetcode link](https://leetcode.com/problems/isomorphic-strings/)
 3. [Q415 Add Strings](https://github.com/RuoxinWang/Leetcode/tree/main/Q415_AddStrings),
     [Leetcode link](https://leetcode.com/problems/add-strings/)
-
+4. [Q125 Valid Palindrome](https://github.com/RuoxinWang/Leetcode/tree/main/Q125_ValidPalindrome),
+    [Leetcode link](https://leetcode.com/problems/valid-palindrome/)
 ## Array
 1. [Q1748 Sum Of Unique Elements](https://github.com/RuoxinWang/Leetcode/tree/main/Q1748_SumOfUniqueElements),
     [Leetcode link](https://leetcode.com/problems/sum-of-unique-elements/)
