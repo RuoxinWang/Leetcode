@@ -11,6 +11,8 @@
     [Leetcode link](https://leetcode.com/problems/valid-palindrome/)
 5. [Q151 Reverse Words In A String](https://github.com/RuoxinWang/Leetcode/tree/main/Q151ReverseWordsInAString),
     [Leetcode link](https://leetcode.com/problems/reverse-words-in-a-string/)
+6. [Q443 String Compression](https://github.com/RuoxinWang/Leetcode/tree/main/Q443_StringCompression),
+    [Leetcode link](https://leetcode.com/problems/string-compression/)
 ## Array
 1. [Q1748 Sum Of Unique Elements](https://github.com/RuoxinWang/Leetcode/tree/main/Q1748_SumOfUniqueElements),
     [Leetcode link](https://leetcode.com/problems/sum-of-unique-elements/)
