@@ -14,14 +14,15 @@ public class Main {
         compress(chars3);
         compress(chars4);
         System.out.println(Arrays.toString(chars1));
-        System.out.println(Arrays.toString(chars2));
-        System.out.println(Arrays.toString(chars3));
-        System.out.println(Arrays.toString(chars4));
+        //System.out.println(Arrays.toString(chars2));
+        //System.out.println(Arrays.toString(chars3));
+        //System.out.println(Arrays.toString(chars4));
     }
 
     private static int compress(char[] chars) {
         int n = chars.length;
         int current = 0;
+
         for(int i  = 0; i < n; ){
             int j = i;
             while(j < n-1 && chars[j] == chars[j+1]){
