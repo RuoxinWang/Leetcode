@@ -19,19 +19,6 @@ public class Main {
     }
 
     public static boolean isIsomorphic(String s, String t) {
-        /*
-        Map<Character, Integer> mapS = new HashMap<>();
-        Map<Character, Integer> mapT = new HashMap<>();
-
-        for(int i = 0, j = 0; i < s.length() && j < t.length(); i++, j++){
-            if(mapS.put(s.charAt(i),i) != mapT.put(t.charAt(j),j)){
-                return false;
-            }
-        }
-        return true;
-
-         */
-
         char[] s1 = s.toCharArray();
         char[] t1 = t.toCharArray();
 
