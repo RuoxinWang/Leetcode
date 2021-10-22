@@ -21,6 +21,8 @@
     [Leetcode link](https://leetcode.com/problems/count-binary-substrings/)
 10. [Q13 Roman To Integer](https://github.com/RuoxinWang/Leetcode/tree/main/Q13_RomanToInteger),
     [Leetcode link](https://leetcode.com/problems/roman-to-integer/submissions/)
+11. [Q12 Integer To Roman](https://github.com/RuoxinWang/Leetcode/tree/main/Q12_IntegerToRoman),
+    [Leetcode link](https://leetcode.com/problems/integer-to-roman/)
 ## Array
 1. [Q1748 Sum Of Unique Elements](https://github.com/RuoxinWang/Leetcode/tree/main/Q1748_SumOfUniqueElements),
     [Leetcode link](https://leetcode.com/problems/sum-of-unique-elements/)
@@ -32,7 +34,7 @@
     [Leetcode link](https://leetcode.com/problems/merge-sorted-array/)
 
 ## Matrix
-1. [Q867 Transpose Matrix](https://github.com/RuoxinWang/Leetcode/tree/main/Q867_TransposeMatrix),
+1. [Q867 Transpose Matrix](https://github.com/RuoxinWang/Leetcode/tree/main/Q867_TransposeAMatrix),
     [Leetcode link](https://leetcode.com/problems/transpose-matrix/)
 2. [Q48 Rotate Image](https://github.com/RuoxinWang/Leetcode/tree/main/Q48_RotateImage),
     [Leetcode link](https://leetcode.com/problems/rotate-image/)
