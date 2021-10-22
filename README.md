@@ -17,6 +17,9 @@
     [Leetcode link](https://leetcode.com/problems/shortest-word-distance/)
 8. [Q28 Implement strStr()](https://github.com/RuoxinWang/Leetcode/tree/main/Q28_ImplementStrStr()),
     [Leetcode link](https://leetcode.com/problems/implement-strstr/)
+9. [Q696 Count Binary Substrings](https://github.com/RuoxinWang/Leetcode/tree/main/Q696_CountBinarySubstrings),
+    [Leetcode link](https://leetcode.com/problems/count-binary-substrings/)
+10.
 ## Array
 1. [Q1748 Sum Of Unique Elements](https://github.com/RuoxinWang/Leetcode/tree/main/Q1748_SumOfUniqueElements),
     [Leetcode link](https://leetcode.com/problems/sum-of-unique-elements/)
