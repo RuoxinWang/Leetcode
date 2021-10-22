@@ -6,7 +6,7 @@ import java.util.Map;
 public class Main {
 
     public static void main(String[] args) {
-	    String s1 = "egg";
+	String s1 = "egg";
         String t1 = "add";
         String s2 = "foo";
         String t2 = "bar";
