@@ -3,7 +3,7 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-	    String[] wordsDict = {"practice", "makes", "perfect", "coding", "makes"};
+	String[] wordsDict = {"practice", "makes", "perfect", "coding", "makes"};
         String word1 = "coding";
         String word2 = "practice";
         System.out.println(shortestDistance(wordsDict, word1, word2));
