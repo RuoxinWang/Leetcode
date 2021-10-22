@@ -32,6 +32,8 @@
     [Leetcode link](https://leetcode.com/problems/move-zeroes/)
 4. [Q88 Merge Sorted Array](https://github.com/RuoxinWang/Leetcode/tree/main/Q88_MergeSortedArray)
     [Leetcode link](https://leetcode.com/problems/merge-sorted-array/)
+5.  [Q1363 Sort Array By Increasing Frequency](https://github.com/RuoxinWang/Leetcode/tree/main/Q1636_SortArrayByIncreasingFrequency),
+    [Leetcode link](https://leetcode.com/problems/sort-array-by-increasing-frequency/)
 
 ## Matrix
 1. [Q867 Transpose Matrix](https://github.com/RuoxinWang/Leetcode/tree/main/Q867_TransposeAMatrix),
