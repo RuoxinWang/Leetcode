@@ -1,5 +1,6 @@
 package com.company;
 
+import javax.xml.bind.SchemaOutputResolver;
 import java.util.Arrays;
 
 public class Main {
@@ -14,7 +15,9 @@ public class Main {
         merge(nums1, 3, nums2, 3);
         merge(nums3,1,nums4,0);
         merge(nums5,0,nums6,1);
-
+        System.out.println(Arrays.toString(nums1));
+        System.out.println(Arrays.toString(nums3));
+        System.out.println(Arrays.toString(nums5));
 
     }
     private static void merge(int[] nums1, int m, int[] nums2, int n) {
