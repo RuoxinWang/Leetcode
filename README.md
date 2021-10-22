@@ -19,7 +19,8 @@
     [Leetcode link](https://leetcode.com/problems/implement-strstr/)
 9. [Q696 Count Binary Substrings](https://github.com/RuoxinWang/Leetcode/tree/main/Q696_CountBinarySubstrings),
     [Leetcode link](https://leetcode.com/problems/count-binary-substrings/)
-10.
+10. [Q13 Roman To Integer](https://github.com/RuoxinWang/Leetcode/tree/main/Q13_RomanToInteger),
+    [Leetcode link](https://leetcode.com/problems/roman-to-integer/submissions/)
 ## Array
 1. [Q1748 Sum Of Unique Elements](https://github.com/RuoxinWang/Leetcode/tree/main/Q1748_SumOfUniqueElements),
     [Leetcode link](https://leetcode.com/problems/sum-of-unique-elements/)
