@@ -15,6 +15,8 @@
     [Leetcode link](https://leetcode.com/problems/string-compression/)
 7. [Q243 Shortest Word Distance](https://github.com/RuoxinWang/Leetcode/tree/main/Q243_ShortestWordDistance),
     [Leetcode link](https://leetcode.com/problems/shortest-word-distance/)
+8. [Q28 Implement strStr()](https://github.com/RuoxinWang/Leetcode/tree/main/Q28_ImplementStrStr()),
+    [Leetcode link](https://leetcode.com/problems/implement-strstr/)
 ## Array
 1. [Q1748 Sum Of Unique Elements](https://github.com/RuoxinWang/Leetcode/tree/main/Q1748_SumOfUniqueElements),
     [Leetcode link](https://leetcode.com/problems/sum-of-unique-elements/)
