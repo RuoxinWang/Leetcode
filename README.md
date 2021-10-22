@@ -9,7 +9,7 @@
     [Leetcode link](https://leetcode.com/problems/add-strings/)
 4. [Q125 Valid Palindrome](https://github.com/RuoxinWang/Leetcode/tree/main/Q125_ValidPalindrome),
     [Leetcode link](https://leetcode.com/problems/valid-palindrome/)
-5. [Q151 Reverse Words In A String](https://github.com/RuoxinWang/Leetcode/tree/main/Q151_ReverseWordsInAString),
+5. [Q151 Reverse Words In A String](https://github.com/RuoxinWang/Leetcode/tree/main/Q151_ReverseWordsInString),
     [Leetcode link](https://leetcode.com/problems/reverse-words-in-a-string/)
 6. [Q443 String Compression](https://github.com/RuoxinWang/Leetcode/tree/main/Q443_StringCompression),
     [Leetcode link](https://leetcode.com/problems/string-compression/)
