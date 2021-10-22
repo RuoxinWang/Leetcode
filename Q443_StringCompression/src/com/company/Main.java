@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class Main {
 
     public static void main(String[] args) {
-	    char[] chars1 = {'a','a','b','b','c','c','c'};
+	char[] chars1 = {'a','a','b','b','c','c','c'};
         char[] chars2 = {'a'};
         char[] chars3 = {'a','b','b','b','b','b','b','b','b','b','b','b','b'};
         char[] chars4 = {'a','a','a','b','b','a','a'};
@@ -14,9 +14,9 @@ public class Main {
         compress(chars3);
         compress(chars4);
         System.out.println(Arrays.toString(chars1));
-        //System.out.println(Arrays.toString(chars2));
-        //System.out.println(Arrays.toString(chars3));
-        //System.out.println(Arrays.toString(chars4));
+        System.out.println(Arrays.toString(chars2));
+        System.out.println(Arrays.toString(chars3));
+        System.out.println(Arrays.toString(chars4));
     }
 
     private static int compress(char[] chars) {
