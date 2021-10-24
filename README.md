@@ -23,6 +23,8 @@
     [Leetcode link](https://leetcode.com/problems/roman-to-integer/submissions/)
 11. [Q12 Integer To Roman](https://github.com/RuoxinWang/Leetcode/tree/main/Q12_IntegerToRoman),
     [Leetcode link](https://leetcode.com/problems/integer-to-roman/)
+12. [Q680 Valid Palindrome II](https://github.com/RuoxinWang/Leetcode/tree/main/Q680_ValidPalindromeII),
+    [Leetcode link](https://leetcode.com/problems/valid-palindrome-ii/)
 ## Array
 1. [Q1748 Sum Of Unique Elements](https://github.com/RuoxinWang/Leetcode/tree/main/Q1748_SumOfUniqueElements),
     [Leetcode link](https://leetcode.com/problems/sum-of-unique-elements/)
