@@ -50,6 +50,8 @@
     [Leetcode link](https://leetcode.com/problems/summary-ranges/)
 11. [Q136 Single Number](https://github.com/RuoxinWang/Leetcode/tree/main/Q136_SingleNumber),
     [Leetcode link](https://leetcode.com/problems/single-number/)
+12. [Q26 Reomve Duplicates From Sorted Array](https://github.com/RuoxinWang/Leetcode/tree/main/Q26_RemoveDuplicatesFromSortedArray),
+    [Leetcode link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/)
 ## Matrix
 1. [Q867 Transpose Matrix](https://github.com/RuoxinWang/Leetcode/tree/main/Q867_TransposeAMatrix),
     [Leetcode link](https://leetcode.com/problems/transpose-matrix/)
