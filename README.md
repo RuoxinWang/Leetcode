@@ -25,6 +25,8 @@
     [Leetcode link](https://leetcode.com/problems/integer-to-roman/)
 12. [Q680 Valid Palindrome II](https://github.com/RuoxinWang/Leetcode/tree/main/Q680_ValidPalindromeII),
     [Leetcode link](https://leetcode.com/problems/valid-palindrome-ii/)
+13. [Q14 Longest Common Prefix](https://github.com/RuoxinWang/Leetcode/tree/main/Q14_LongestCommonPrefix),
+    [Leetcode link](https://leetcode.com/problems/longest-common-prefix/submissions/)
 ## Array
 1. [Q1748 Sum Of Unique Elements](https://github.com/RuoxinWang/Leetcode/tree/main/Q1748_SumOfUniqueElements),
     [Leetcode link](https://leetcode.com/problems/sum-of-unique-elements/)
