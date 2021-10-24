@@ -46,6 +46,8 @@
     [Leetcode link](https://leetcode.com/problems/contains-duplicate/submissions/)
 9.  [Q448 Find All Numbers Disappeared In An Array](https://github.com/RuoxinWang/Leetcode/tree/main/Q448_FindAllNumbersDisappearedInAnArray),
     [Leetcode link](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/submissions/)
+10. [Q228 Summary Ranges](https://github.com/RuoxinWang/Leetcode/tree/main/Q228_SummaryRanges),
+    [Leetcode link](https://leetcode.com/problems/summary-ranges/)
 ## Matrix
 1. [Q867 Transpose Matrix](https://github.com/RuoxinWang/Leetcode/tree/main/Q867_TransposeAMatrix),
     [Leetcode link](https://leetcode.com/problems/transpose-matrix/)
