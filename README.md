@@ -36,6 +36,8 @@
     [Leetcode link](https://leetcode.com/problems/sort-array-by-increasing-frequency/)
 6. [Q628 Maximum Product Of Three Numbers](https://github.com/RuoxinWang/Leetcode/tree/main/Q628_MaximumProductOfThreeNumbers),
     [Leetcode link](https://leetcode.com/problems/maximum-product-of-three-numbers/)
+7. [Q268 Missing Number](https://github.com/RuoxinWang/Leetcode/tree/main/Q268_MissingNumber),
+    [Leetcode link](https://leetcode.com/problems/missing-number/)
 
 ## Matrix
 1. [Q867 Transpose Matrix](https://github.com/RuoxinWang/Leetcode/tree/main/Q867_TransposeAMatrix),
