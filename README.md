@@ -38,6 +38,8 @@
     [Leetcode link](https://leetcode.com/problems/maximum-product-of-three-numbers/)
 7. [Q268 Missing Number](https://github.com/RuoxinWang/Leetcode/tree/main/Q268_MissingNumber),
     [Leetcode link](https://leetcode.com/problems/missing-number/)
+8.  [Q217 Contains Duplicate](https://github.com/RuoxinWang/Leetcode/tree/main/Q217_ContainsDuplicate),
+    [Leetcode link](https://leetcode.com/problems/contains-duplicate/submissions/)
 
 ## Matrix
 1. [Q867 Transpose Matrix](https://github.com/RuoxinWang/Leetcode/tree/main/Q867_TransposeAMatrix),
