@@ -48,6 +48,8 @@
     [Leetcode link](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/submissions/)
 10. [Q228 Summary Ranges](https://github.com/RuoxinWang/Leetcode/tree/main/Q228_SummaryRanges),
     [Leetcode link](https://leetcode.com/problems/summary-ranges/)
+11. [Q136 Single Number](https://github.com/RuoxinWang/Leetcode/tree/main/Q136_SingleNumber),
+    [Leetcode link](https://leetcode.com/problems/single-number/)
 ## Matrix
 1. [Q867 Transpose Matrix](https://github.com/RuoxinWang/Leetcode/tree/main/Q867_TransposeAMatrix),
     [Leetcode link](https://leetcode.com/problems/transpose-matrix/)
