@@ -60,3 +60,6 @@
 3. [Q54 Spiral Matrix](https://github.com/RuoxinWang/Leetcode/tree/main/Q54_SpiralMatrix),
     [Leetcode link](https://leetcode.com/problems/spiral-matrix/)
 4. 
+## Math
+1.  [Q9 Palindrome Number](https://github.com/RuoxinWang/Leetcode/tree/main/Q9_PalindromeNumber),
+    [Leetcode link](https://leetcode.com/problems/palindrome-number/submissions/)
