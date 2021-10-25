@@ -36,7 +36,7 @@
     [Leetcode link](https://leetcode.com/problems/move-zeroes/)
 4. [Q88 Merge Sorted Array](https://github.com/RuoxinWang/Leetcode/tree/main/Q88_MergeSortedArray)
     [Leetcode link](https://leetcode.com/problems/merge-sorted-array/)
-5.  [Q1363 Sort Array By Increasing Frequency](https://github.com/RuoxinWang/Leetcode/tree/main/Q1636_SortArrayByIncreasingFrequency),
+5.  [Q1636 Sort Array By Increasing Frequency](https://github.com/RuoxinWang/Leetcode/tree/main/Q1636_SortArrayByIncreasingFrequency),
     [Leetcode link](https://leetcode.com/problems/sort-array-by-increasing-frequency/)
 6. [Q628 Maximum Product Of Three Numbers](https://github.com/RuoxinWang/Leetcode/tree/main/Q628_MaximumProductOfThreeNumbers),
     [Leetcode link](https://leetcode.com/problems/maximum-product-of-three-numbers/)
@@ -50,6 +50,8 @@
     [Leetcode link](https://leetcode.com/problems/summary-ranges/)
 11. [Q136 Single Number](https://github.com/RuoxinWang/Leetcode/tree/main/Q136_SingleNumber),
     [Leetcode link](https://leetcode.com/problems/single-number/)
+12. [Q26 Reomve Duplicates From Sorted Array](https://github.com/RuoxinWang/Leetcode/tree/main/Q26_RemoveDuplicatesFromSortedArray),
+    [Leetcode link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/)
 ## Matrix
 1. [Q867 Transpose Matrix](https://github.com/RuoxinWang/Leetcode/tree/main/Q867_TransposeAMatrix),
     [Leetcode link](https://leetcode.com/problems/transpose-matrix/)
