@@ -63,3 +63,6 @@
 ## Math
 1.  [Q9 Palindrome Number](https://github.com/RuoxinWang/Leetcode/tree/main/Q9_PalindromeNumber),
     [Leetcode link](https://leetcode.com/problems/palindrome-number/submissions/)
+## Hash Table
+1.  [Q1 Two Sum](https://github.com/RuoxinWang/Leetcode/tree/main/Q1_TwoSum),
+    [Leetcode link](https://leetcode.com/problems/two-sum/submissions/)
